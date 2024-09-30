@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "POSApp",
+  "display": "standalone",
+  "name": "POSApp",
+  "short_name": "POSApp",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
